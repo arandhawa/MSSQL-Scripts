@@ -1,21 +1,5 @@
-# SQL Server KIT
-[![licence badge]][licence]
-[![stars badge]][stars]
-[![forks badge]][forks]
-[![issues badge]][issues]
-[![contributors_badge]][contributors]
-
-[licence badge]:https://img.shields.io/badge/license-MIT-blue.svg
-[stars badge]:https://img.shields.io/github/stars/ktaranov/sqlserver-kit.svg
-[forks badge]:https://img.shields.io/github/forks/ktaranov/sqlserver-kit.svg
-[issues badge]:https://img.shields.io/github/issues/ktaranov/sqlserver-kit.svg
-[contributors_badge]:https://img.shields.io/github/contributors/ktaranov/sqlserver-kit.svg
-
-[licence]:https://github.com/ktaranov/sqlserver-kit/blob/master/LICENSE.md
-[stars]:https://github.com/ktaranov/sqlserver-kit/stargazers
-[forks]:https://github.com/ktaranov/sqlserver-kit/network
-[issues]:https://github.com/ktaranov/sqlserver-kit/issues
-[contributors]:https://github.com/ktaranov/sqlserver-kit/graphs/contributors
+# MSSQL-Scripts
+Froked from bitbucket
 
 Useful links, scripts, tools and best practice for Microsoft SQL Server Database
 
